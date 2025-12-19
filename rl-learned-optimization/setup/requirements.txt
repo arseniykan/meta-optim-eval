@@ -1,0 +1,13 @@
+brax>=0.9.0
+distrax @ git+https://github.com/google-deepmind/distrax.git@v0.1.5  # distrax release doesn't support jax > 0.4.13
+evosax @ git+https://github.com/RobertTLange/evosax.git
+flax
+gymnasium
+gymnax==0.0.6 # Later gymnax versions have bugs that prevent running certain envs
+
+numpy<2
+optax @ git+https://github.com/google-deepmind/optax.git
+tqdm
+wandb
+gin-config
+seaborn
