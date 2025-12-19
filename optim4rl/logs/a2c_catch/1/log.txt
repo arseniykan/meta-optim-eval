@@ -1,0 +1,4 @@
+2025-12-08 17:14:23,644 - INFO: Number of cores: 2
+2025-12-08 17:14:23,857 - INFO: <1> Task 1/1: catch
+2025-12-08 17:14:31,825 - INFO: Memory usage: 2748.59 MB
+2025-12-08 17:14:31,825 - INFO: Time elapsed: 0.1383 minutes

@@ -1,0 +1,50 @@
+{
+  "env": {
+    "name": "ant",
+    "train_steps": 100000000.0,
+    "episode_length": 1000,
+    "action_repeat": 1,
+    "reward_scaling": 10,
+    "num_envs": 2048,
+    "normalize_obs": true
+  },
+  "agent": {
+    "name": "MetaPPO",
+    "inner_updates": 4,
+    "gae_lambda": 0.95,
+    "rollout_steps": 5,
+    "num_minibatches": 8,
+    "clipping_epsilon": 0.3,
+    "update_epochs": 4,
+    "entropy_weight": 0.01,
+    "reset_interval": 32
+  },
+  "agent_optim": {
+    "name": "Optim4RL",
+    "kwargs": {
+      "param_load_path": "",
+      "learning_rate": 0.0003,
+      "grad_clip": 1
+    }
+  },
+  "meta_optim": {
+    "name": "Adam",
+    "kwargs": {
+      "learning_rate": 1e-05,
+      "grad_norm": 0.5
+    }
+  },
+  "display_interval": 10,
+  "batch_size": 1024,
+  "discount": 0.97,
+  "max_devices_per_host": -1,
+  "seed": 257988,
+  "generate_random_seed": true,
+  "config_idx": 1,
+  "num_combinations": 50,
+  "save_param": 0,
+  "exp": "meta_rl_ant",
+  "logs_dir": "./logs/meta_rl_ant/1/",
+  "model_path": "./logs/meta_rl_ant/1/model.pt",
+  "cfg_path": "./logs/meta_rl_ant/1/config.json"
+}

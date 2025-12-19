@@ -1,0 +1,15 @@
+2025-12-12 01:18:19,557 - INFO: Total device: 8, Process: 1 (ID 0)
+2025-12-12 01:18:19,558 - INFO: Local device: 8, Devices to be used: 8
+2025-12-12 01:18:42,601 - INFO: <1> Iteration 0/10, Step 0, Return=-138.72
+2025-12-12 01:19:44,870 - INFO: <1> Iteration 1/10, Step 9830400, Return=1423.66, Speed=157870.53 (steps/s), ETA=9.52 (mins)
+2025-12-12 01:20:44,186 - INFO: <1> Iteration 2/10, Step 19660800, Return=2131.12, Speed=165731.20 (steps/s), ETA=8.08 (mins)
+2025-12-12 01:21:26,769 - INFO: <1> Iteration 3/10, Step 29491200, Return=769.40, Speed=230852.94 (steps/s), ETA=5.09 (mins)
+2025-12-12 01:22:08,957 - INFO: <1> Iteration 4/10, Step 39321600, Return=625.24, Speed=233019.17 (steps/s), ETA=4.34 (mins)
+2025-12-12 01:22:52,977 - INFO: <1> Iteration 5/10, Step 49152000, Return=2263.95, Speed=223317.44 (steps/s), ETA=3.79 (mins)
+2025-12-12 01:23:38,074 - INFO: <1> Iteration 6/10, Step 58982400, Return=3007.49, Speed=217985.82 (steps/s), ETA=3.14 (mins)
+2025-12-12 01:24:21,825 - INFO: <1> Iteration 7/10, Step 68812800, Return=3238.60, Speed=224692.32 (steps/s), ETA=2.31 (mins)
+2025-12-12 01:25:06,322 - INFO: <1> Iteration 8/10, Step 78643200, Return=3335.90, Speed=220924.56 (steps/s), ETA=1.61 (mins)
+2025-12-12 01:25:51,041 - INFO: <1> Iteration 9/10, Step 88473600, Return=3554.93, Speed=219824.52 (steps/s), ETA=0.87 (mins)
+2025-12-12 01:26:34,267 - INFO: <1> Iteration 10/10, Step 98304000, Return=3184.38, Speed=227420.76 (steps/s), ETA=0.12 (mins)
+2025-12-12 01:26:34,746 - INFO: Memory usage: 7463.46 MB
+2025-12-12 01:26:34,746 - INFO: Time elapsed: 8.3023 minutes

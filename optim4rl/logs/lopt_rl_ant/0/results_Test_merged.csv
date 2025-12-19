@@ -1,0 +1,2 @@
+Env,Agent,Config Index,Return (mean),Return (se),Return (bootstrap_mean),Return (ci=90),optim/name,optim/kwargs/learning_rate,optim/kwargs/param_load_path
+ant,PPO,1,3369.65283203125,0.0,3369.65283203125,0.0,Optim4RL,0.0003,./logs/meta_rl_ant/1/param.pickle

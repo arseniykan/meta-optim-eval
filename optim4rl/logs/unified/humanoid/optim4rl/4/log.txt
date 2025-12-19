@@ -1,0 +1,7 @@
+2025-12-12 00:11:38,690 - INFO: Total device: 8, Process: 1 (ID 0)
+2025-12-12 00:12:10,975 - INFO: <4> Iteration 0/20, Step 0, Return=136.09
+2025-12-12 00:13:06,224 - INFO: <4> Iteration 1/20, Step 2498560, Return=918.58, Speed=45223.93 (steps/s), ETA=17.51 (mins)
+2025-12-12 00:14:01,349 - INFO: <4> Iteration 2/20, Step 4997120, Return=3582.21, Speed=45325.53 (steps/s), ETA=16.55 (mins)
+2025-12-12 00:14:31,366 - INFO: <4> Iteration 3/20, Step 7495680, Return=2662.42, Speed=83240.85 (steps/s), ETA=8.51 (mins)
+2025-12-12 00:15:00,183 - INFO: <4> Iteration 4/20, Step 9994240, Return=4772.98, Speed=86703.14 (steps/s), ETA=7.69 (mins)
+2025-12-12 00:15:27,855 - INFO: <4> Iteration 5/20, Step 12492800, Return=4916.05, Speed=90294.65 (steps/s), ETA=6.92 (mins)

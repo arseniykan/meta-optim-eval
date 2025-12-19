@@ -1,0 +1,18 @@
+2025-12-08 17:21:18,227 - INFO: Number of cores: 4
+2025-12-08 17:21:50,440 - INFO: <2> Step 32000/499200 Iteration 5/78: Speed=61917.97 (steps/s), ETA=0.13 (mins)
+2025-12-08 17:21:51,093 - INFO: <2> Step 64000/499200 Iteration 10/78: Speed=45030.06 (steps/s), ETA=0.16 (mins)
+2025-12-08 17:21:51,711 - INFO: <2> Step 96000/499200 Iteration 15/78: Speed=63756.39 (steps/s), ETA=0.11 (mins)
+2025-12-08 17:21:52,356 - INFO: <2> Step 128000/499200 Iteration 20/78: Speed=54361.72 (steps/s), ETA=0.11 (mins)
+2025-12-08 17:21:53,029 - INFO: <2> Step 160000/499200 Iteration 25/78: Speed=58159.44 (steps/s), ETA=0.10 (mins)
+2025-12-08 17:21:53,656 - INFO: <2> Step 192000/499200 Iteration 30/78: Speed=47287.49 (steps/s), ETA=0.11 (mins)
+2025-12-08 17:21:54,295 - INFO: <2> Step 224000/499200 Iteration 35/78: Speed=64692.75 (steps/s), ETA=0.07 (mins)
+2025-12-08 17:21:54,925 - INFO: <2> Step 256000/499200 Iteration 40/78: Speed=43109.42 (steps/s), ETA=0.09 (mins)
+2025-12-08 17:21:55,596 - INFO: <2> Step 288000/499200 Iteration 45/78: Speed=49543.66 (steps/s), ETA=0.07 (mins)
+2025-12-08 17:21:56,192 - INFO: <2> Step 320000/499200 Iteration 50/78: Speed=49305.51 (steps/s), ETA=0.06 (mins)
+2025-12-08 17:21:56,800 - INFO: <2> Step 352000/499200 Iteration 55/78: Speed=53904.00 (steps/s), ETA=0.05 (mins)
+2025-12-08 17:21:57,353 - INFO: <2> Step 384000/499200 Iteration 60/78: Speed=51673.08 (steps/s), ETA=0.04 (mins)
+2025-12-08 17:21:57,971 - INFO: <2> Step 416000/499200 Iteration 65/78: Speed=60717.17 (steps/s), ETA=0.02 (mins)
+2025-12-08 17:21:58,539 - INFO: <2> Step 448000/499200 Iteration 70/78: Speed=60514.32 (steps/s), ETA=0.01 (mins)
+2025-12-08 17:21:59,177 - INFO: <2> Step 480000/499200 Iteration 75/78: Speed=46772.11 (steps/s), ETA=0.01 (mins)
+2025-12-08 17:21:59,707 - INFO: Memory usage: 4797.07 MB
+2025-12-08 17:21:59,708 - INFO: Time elapsed: 0.6936 minutes

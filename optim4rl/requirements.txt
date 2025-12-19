@@ -1,0 +1,13 @@
+jax==0.4.19
+distrax==0.1.5
+chex==0.1.85
+optax==0.1.7
+flax==0.7.5
+rlax==0.1.6
+brax==0.9.4
+tensorflow>=2.11.1
+matplotlib
+psutil
+pandas
+pyarrow
+seaborn

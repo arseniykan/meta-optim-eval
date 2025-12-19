@@ -1,0 +1,44 @@
+{
+  "env": {
+    "name": [
+      "catch"
+    ],
+    "num_envs": 64,
+    "train_steps": 500000.0
+  },
+  "agent": {
+    "name": "MetaA2C",
+    "inner_updates": 4,
+    "gae_lambda": 0.95,
+    "rollout_steps": 20,
+    "critic_loss_weight": 0.5,
+    "entropy_weight": 0.01,
+    "reset_interval": 32
+  },
+  "agent_optim": {
+    "name": "Optim4RL",
+    "kwargs": {
+      "param_load_path": "",
+      "learning_rate": 0.001,
+      "grad_clip": -1
+    }
+  },
+  "meta_optim": {
+    "name": "Adam",
+    "kwargs": {
+      "learning_rate": 0.0001,
+      "grad_norm": 0.5
+    }
+  },
+  "discount": 0.995,
+  "seed": 8279,
+  "display_interval": 5,
+  "generate_random_seed": true,
+  "config_idx": 1,
+  "num_combinations": 20,
+  "save_param": 0,
+  "exp": "meta_rl_catch",
+  "logs_dir": "./logs/meta_rl_catch/1/",
+  "model_path": "./logs/meta_rl_catch/1/model.pt",
+  "cfg_path": "./logs/meta_rl_catch/1/config.json"
+}
